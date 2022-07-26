@@ -1,1 +1,1 @@
-# project2-flexbox
+A responsive website layout with flexbox
