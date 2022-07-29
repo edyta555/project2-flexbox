@@ -1,1 +1,1 @@
-A responsive website layout with flexbox
+A responsive website with flexbox
